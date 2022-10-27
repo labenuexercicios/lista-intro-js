@@ -1,28 +1,7 @@
-# - Exercício
+# Lista de JS
 
 Caso não lembre como funciona o processo de entrega, clique [**aqui**](https://github.com/labenuexercicios/instrucoes-entrega)
 
-## O que você precisa saber e praticar desta aula?
-1. 
-2. 
-3. 
+Crie um fork deste projeto, e suba os arquivos do **boilerplate** alterados para o seu projeto final. Lembre-se de criar `branches` para facilitar a visualização de seu progresso.
 
-
-## Como eu vou executar os exercícios?
-
-
-
-# Exercício 1
-
-
-
-# Exercício 2
-
-
-# Exercício 3
-
-
-
-## Informações úteis sobre o assunto
-
-
+Boa prática!
