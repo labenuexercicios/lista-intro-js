@@ -152,5 +152,5 @@ const idade = prompt("Você tem mais de 18 anos? Respostas apenas com sim ou nã
 const escolaridade = prompt("Você possui ensino médio completo? Responda com sim ou não")
 const disponibilidade = prompt("Você tem disponibilidade durante os horários do curso? Responda com sim ou não.")
 const respostas = (idade == "sim") && (escolaridade == "sim") && (disponibilidade == "sim")
-console.log(respostas)
+console.log(respostas);
 }
